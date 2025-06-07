@@ -1,0 +1,10 @@
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.exe.config
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.exe
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\bin\Debug\DISimpleInjector.pdb
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\bin\Debug\SimpleInjector.dll
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\bin\Debug\SimpleInjector.xml
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.csproj.CopyComplete
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.exe
+C:\Users\José Antonio\source\repos\DISimpleInjector\DISimpleInjector\obj\Debug\DISimpleInjector.pdb
